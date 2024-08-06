@@ -23,9 +23,9 @@ Screenshots of Project: <br><br>
 
 * Try these lines in the console in the project folder:
 
-gem install bundler
-bundle
-rake db:create && rake db:migrate
-rails s
+    gem install bundler
+    bundle
+    rake db:create && rake db:migrate
+    rails s
 
 * These commands will start Rails server at localhost:3000. This project requires DB to be installed. (DB type depends on Gemfile content). Also you should check if config/database.yml file is present.
