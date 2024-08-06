@@ -1,7 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Online Hostel Management System
+
+* It is a web application through which students can register with their basic details and select the hostel room and mess of their choice by requesting the warden.
+* Students can raise any kind of complaints regarding the hostel and mess. Warden can register with his basic details and upload the hostel and mess fee details.
+* Warden can verify the students details and allocate the rooms and mess based on the availability.
+* Warden can see the complaints made by the students and resolve them .
+* Technology: Ruby on Rails, HTML, CSS
+
+Screenshots of Project
+<img width="1336" alt="1  homepage" src="https://github.com/user-attachments/assets/fdecc41c-26f8-4790-a56a-d0102a6145ec">
+
+
 
 Things you may want to cover:
 
