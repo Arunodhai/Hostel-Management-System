@@ -9,7 +9,7 @@ Online Hostel Management System
 * Technology: Ruby on Rails, HTML, CSS
 
 Screenshots of Project
-<img width="1336" alt="homepage" src="https://github.com/user-attachments/assets/fdecc41c-26f8-4790-a56a-d0102a6145ec">
+<img width="336" alt="homepage" src="https://github.com/user-attachments/assets/fdecc41c-26f8-4790-a56a-d0102a6145ec">
 <img width="1336" alt="student register" src="https://github.com/user-attachments/assets/cf0c0c91-8c75-45c1-b6a3-5ffd47a117c5">
 <img width="1336" alt="student login" src="https://github.com/user-attachments/assets/8559db39-d0d5-497c-8bc6-a7cfdf04dbe2">
 <img width="1336" alt="warden register" src="https://github.com/user-attachments/assets/e925290d-5481-476a-abc3-2f909af60f90">
